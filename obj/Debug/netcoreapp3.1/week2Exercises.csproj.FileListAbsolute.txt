@@ -1,0 +1,13 @@
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\obj\Debug\netcoreapp3.1\week2Exercises.csprojAssemblyReference.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\obj\Debug\netcoreapp3.1\week2Exercises.AssemblyInfoInputs.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\obj\Debug\netcoreapp3.1\week2Exercises.AssemblyInfo.cs
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\obj\Debug\netcoreapp3.1\week2Exercises.csproj.CoreCompileInputs.cache
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\bin\Debug\netcoreapp3.1\week2Exercises.exe
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\bin\Debug\netcoreapp3.1\week2Exercises.deps.json
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\bin\Debug\netcoreapp3.1\week2Exercises.runtimeconfig.json
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\bin\Debug\netcoreapp3.1\week2Exercises.runtimeconfig.dev.json
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\bin\Debug\netcoreapp3.1\week2Exercises.dll
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\bin\Debug\netcoreapp3.1\week2Exercises.pdb
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\obj\Debug\netcoreapp3.1\week2Exercises.dll
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\obj\Debug\netcoreapp3.1\week2Exercises.pdb
+C:\Users\IFEDAYO\Desktop\C# Classes\week2Exercises\obj\Debug\netcoreapp3.1\week2Exercises.genruntimeconfig.cache
